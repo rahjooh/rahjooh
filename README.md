@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋, my name is Hadi
-#### I am a Data Enginner (https://7wdata.be/wp-content/uploads/2019/01/coverpng.png.webp)
+#### I am a Data Enginner 
+![Big Data Engineer](https://7wdata.be/wp-content/uploads/2019/01/coverpng.png)
 
 I used to be a Java Developer and Also Python Developer . I've worked on huge volume data and have experienced with handling DB , Big data tools and high performance coding.
 
