@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, my name is Hadi
 #### I am a Data Enginner 
-![I am a Data Enginner ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Data Enginner ]
 
 I used to be a Java Developer and Also Python Developer . I've worked on huge volume data and have experienced with handling DB , Big data tools and high performance coding.
 
