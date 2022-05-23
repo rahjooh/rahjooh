@@ -5,7 +5,16 @@
 
 I used to be a Java Developer and Also Python Developer . I've worked on huge volume data and have experienced with handling DB , Big data tools and high performance coding.
 
-Skills: Apache Hadoop , Apache Spark , Apache Kafka , Python , PySpark , Pandas ,Numpy , SQL , Java spring boot ...
+## Skills: 
+* :elephant: Apache Hadoop 
+* :sparkles: Apache Spark 
+* :thought_balloon: Apache Kafka 
+* :snake: Python 
+* :snake::sparkles: PySpark 
+* :panda_face: Pandas 
+* :white_square_button: Numpy 
+* :chart_with_downwards_trend: SQL 
+* :coffee: Java springboot 
 
 - 🔭 I’m currently working on https://soshyant.co/ 
 - 🌱 I’m currently learning https://druid.apache.org/ 
