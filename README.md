@@ -3,6 +3,8 @@
 #### I am a Data Enginner 
 ![Big Data Engineer](https://7wdata.be/wp-content/uploads/2019/01/coverpng.png)
 
+
+My resume : https://rahjooh.github.io/resume/
 I used to be a Java Developer and Also Python Developer . I've worked on huge volume data and have experienced with handling DB , Big data tools and high performance coding.
 
 ## Skills: 
