@@ -20,7 +20,7 @@ I used to be a Java Developer and Also Python Developer . I've worked on huge vo
 * :chart_with_downwards_trend: SQL 
 * :coffee: Java springboot 
 
-- 🔭 I’m currently working on [[https://isc.co.ir/portal/home/]
+- 🔭 I’m currently working on https://isc.co.ir/portal/home/
 - 🌱 I’m currently learning https://druid.apache.org/ 
 - 👯 I’m looking to collaborate on open source bigdata projects 
 - 📫 How to reach me: rahjooh@gmail.com 
