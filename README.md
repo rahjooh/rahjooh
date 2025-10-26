@@ -8,7 +8,7 @@ My resume : https://rahjooh.github.io/resume/
 
 
 I help organisations design modern analytics ecosystems, mentor high-performing teams, and translate complex systems into narratives leaders understand.  
-10+ years shaping data platforms · 2 teams mentored to production · 36 articles & talks published. :contentReference[oaicite:0]{index=0}
+10+ years shaping data platforms · 2 teams mentored to production · 36 articles & talks published.
 
 ---
 
