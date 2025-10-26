@@ -7,30 +7,83 @@
 My resume : https://rahjooh.github.io/resume/
 
 
-I used to be a Java Developer and Also Python Developer . I've worked on huge volume data and have experienced with handling DB , Big data tools and high performance coding.
+I help organisations design modern analytics ecosystems, mentor high-performing teams, and translate complex systems into narratives leaders understand.  
+10+ years shaping data platforms · 2 teams mentored to production · 36 articles & talks published. :contentReference[oaicite:0]{index=0}
 
-## Skills: 
-* :elephant: Apache Hadoop 
-* :sparkles: Apache Spark 
-* :thought_balloon: Apache Kafka 
-* :snake: Python 
-* :snake::sparkles: PySpark 
-* :panda_face: Pandas 
-* :white_square_button: Numpy 
-* :chart_with_downwards_trend: SQL 
-* :coffee: Java springboot 
+---
 
-- 🔭 I’m currently working on https://isc.co.ir/portal/home/
-- 🌱 I’m currently learning https://druid.apache.org/ 
-- 👯 I’m looking to collaborate on open source bigdata projects 
-- 📫 How to reach me: rahjooh@gmail.com 
+## 🎯 What I Do  
+- Design resilient **data platforms** & analytics engineering ecosystems :contentReference[oaicite:1]{index=1}  
+- Build high-trust systems with **observability**, scalability and governance :contentReference[oaicite:2]{index=2}  
+- Tell the **stories behind the signals** — making data meaningful for decision-makers :contentReference[oaicite:3]{index=3}
+
+---
+
+## 🧠 Technical Skills  
+
+### 🧩 Programming Languages  
+- **Go (Golang)** — primary language for backend, distributed systems, and high-performance data services  
+- **Python** — secondary language for data engineering, analytics, and automation  
+- **Java (Spring Boot)** — legacy systems and backend integrations  
+- **Bash / Shell Scripting** — deployment and DevOps automation  
+
+### 🗃️ Data Engineering & Processing  
+- **Apache Spark** (batch + streaming, PySpark)  
+- **Apache Kafka / AWS MSK Serverless** — real-time data pipelines  
+- **Apache Airflow** — DAG orchestration and workflow automation  
+- **Apache Druid** — real-time OLAP analytics  
+- **Pandas**, **NumPy**, **SQL** — data analysis and transformations  
+
+### ☁️ Cloud & Infrastructure  
+- **AWS** — MSK, S3, EC2, CloudWatch, IAM, networking  
+- **Kubernetes (OKD)** & **Helm** — container orchestration and deployment  
+- **Docker** — image creation and CI/CD pipeline integration  
+- **Terraform** & **AWS CloudFormation** — Infrastructure as Code (IaC)  
+
+### ⚙️ DevOps & CI/CD  
+- **GitLab CI/CD**, **GitHub Actions** — automated build & deployment pipelines  
+- **Monitoring & Observability** — CloudWatch, Prometheus, custom logging/metrics  
+
+### 📐 Data Architecture & Design  
+- Data Lake & Data Warehouse architecture  
+- Real-time streaming systems  
+- High-volume ingestion & distributed storage design  
+- ETL/ELT performance optimization  
+
+---
+
+## 🚀 Highlighted Projects  
+Here are some of the key platforms & accelerators I’ve shipped:  
+- **Spark Job Control API** — FastAPI control-plane that clones a Spark-app template via GitLab tokens, authenticates with OKD, and exposes job management APIs (run/status/stop) using Helm & Airflow. :contentReference[oaicite:4]{index=4}  
+- **MSK Serverless Crypto Data Platform** — IaC stack that provisions an AWS MSK Serverless cluster with IAM-authenticated Kafka endpoints, CloudWatch logging, guard-railed network access. :contentReference[oaicite:5]{index=5}  
+
+(See more of my projects on [My Site → Projects](https://hadirahjou.ir) or on GitHub.)
+
+---
+
+## 📫 Get in Touch  
+- Email: rahjooh@gmail.com  
+- LinkedIn: [www.linkedin.com/in/hadirahjou/](https://www.linkedin.com/in/hadirahjou/)  
+- GitHub: [github.com/rahjooh](https://github.com/rahjooh)  
+- Personal Website: [hadirahjou.ir](https://hadirahjou.ir)
+
+---
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahjooh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hadirahjou/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hadirahjou/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/6623907)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://rahjou.net/)  
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahjooh&show_icons=true&count_private=true)  
+## 🤝 Let’s Collaborate  
+I’m always excited to team up on open-source big-data projects, share learnings via talks or writing, and partner on advisory engagements. If you’re doing something bold with data, let’s chat!
 
-![GitHub metrics](https://metrics.lecoq.io/rahjooh)  
+---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rahjooh)  
+## 📊 GitHub Stats  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahjooh&show_icons=true&count_private=true)](https://github.com/rahjooh)  
+[![GitHub metrics](https://metrics.lecoq.io/rahjooh)](https://metrics.lecoq.io/rahjooh)  
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rahjooh)](https://github-readme-streak-stats.herokuapp.com/?user=rahjooh)
+
+---
+
+### Thanks for stopping by!  
+Let’s build something remarkable with data. 🎉
 
